@@ -1,0 +1,81 @@
+div{
+    display: inline-block;
+}
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-family: monospace;
+    
+  }
+  div#caixa1{
+      margin-top: 40px;
+      border-radius: 20px;
+      background-color: brown;
+      width: 20%;
+      height: 500px;
+      margin-left: 20px;
+      
+  }
+  div#cabtotal{
+      
+        padding-top: 140px;
+        margin-top: 40px;
+        margin: 20px ;
+        color: white;
+        font-family: serif;
+        padding-left: 30px;
+        font-size: 30px;
+    
+  }
+  a#cab1{
+
+      margin-top: 40px;
+      padding-bottom: 20px;
+      color: white;
+      font-family: monospace;  
+      }
+
+    a#cab2{
+
+    padding-bottom: 20px;
+    color: white;
+    font-family: monospace;
+        
+
+} 
+
+a#cab3{
+
+    padding-bottom: 20px;
+    color: white;
+    font-family: monospace;
+}
+a#cab4{
+    padding-bottom: 20px;
+    color: white;
+    font-family: monospace;
+}
+a#cab5{
+    padding-bottom: 20px;
+    color: white;
+    font-family: monospace;
+}
+body{
+    background-color: wheat;
+}
+div#caixa2{
+    border-radius: 20px;
+    margin-top: 500px;
+    background-color: brown;
+    width: 20%;
+    height: 500px;
+}
+h1#nome{
+    font-size: 45px;
+    margin-left: 350px;
+    margin-top: 50px;
+    font-family: monospace;
+    
+}
